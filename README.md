@@ -24,7 +24,7 @@ Commit Message
 ## 파일 및 폴더구조
 
 프로그래머스
-* Programmers/이룸/1week/문제명.java
+* Programmers/이름/1week/문제명.java
 
 백준
 * Baekjoon/이름/1week/문제명.java
