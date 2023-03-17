@@ -12,8 +12,8 @@
 ## PR 규칙 및 Commit Message 규칙
 
 Pull Request
-* [Programmers-1week] 이름
-* [Baekjoon-1week] 이름
+* [Programmers-week1-1] 이름 
+* [Baekjoon-week1-1] 이름
 
 Commit Message
 * [Programmers-문제번호] 문제명
@@ -24,7 +24,12 @@ Commit Message
 ## 파일 및 폴더구조
 
 프로그래머스
-* Programmers/이름/1week/문제명.java
+* Programmers/이름/week1-1/문제명.java
+   ###### (1주차 1번째 week1-1,  1주차 2번째 week1-2) 
 
 백준
-* Baekjoon/이름/1week/문제명.java
+* Baekjoon/이름/week1-1/문제명.java
+
+
+CS
+* CS/이름/week1/주제.md
