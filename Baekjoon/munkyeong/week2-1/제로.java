@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        Stack<Integer> stack=new Stack<Integer>();
+        Stack<Integer> stack=new Stack<>();
 
         int num=Integer.parseInt(br.readLine());
 
@@ -14,7 +14,7 @@ public class Main {
             if(n==0){
                stack.pop();
             }else {
-                stack.add(n);
+                stack.push(n);
             }
         }
         int sum=0;
