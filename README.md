@@ -14,22 +14,49 @@
 Pull Request
 * [Programmers-week1-1] 이름 
 * [Baekjoon-week1-1] 이름
+* [CS-N주차] 이름
+* [Chore] 이름
 
 Commit Message
 * [Programmers-문제번호] 문제명
 * [Baekjoon-문제번호] 문제명
+* [CS-N주차] 주제명
+* [Chore] 사유
 
 <br>
 
 ## 파일 및 폴더구조
 
+```bash
+├─ Algorithm
+│   │
+│   ├─ Baekjoon
+│   │    │
+│   │    └─ N주차_1차
+│   │    │     │
+│   │    │     └─ 문제명_홍길동.java
+│   │    │     └─ ...
+│   │    └─ ...
+│   │   
+│   └─ Programmers
+│        │
+│        └─ ...
+└─ CS
+   │
+   └─ weekN
+   │  │
+   │  └─ 주제_이름.md
+   │  └─ ...
+   └─ ...
+```
+
 프로그래머스
-* Programmers/이름/week1-1/문제명.java
+* Programmers/week1-1/문제명_이름.java
    ###### (1주차 1번째 week1-1,  1주차 2번째 week1-2) 
 
 백준
-* Baekjoon/이름/week1-1/문제명.java
+* Baekjoon/week1-1/문제명_이름.java
 
 
 CS
-* CS/이름/week1/주제.md
+* CS/week1/주제_이름.md
