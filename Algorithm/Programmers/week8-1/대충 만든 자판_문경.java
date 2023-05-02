@@ -16,7 +16,7 @@
                         }
                     }
                   
-                    if(idx==Integer.MAX_VALUE){ // 존재하지 않는다면 
+                    if(idx==Integer.MAX_VALUE){ // 존재하지 않는다면  
                         answer[i]=-1; 
                         break;
                     }else{
